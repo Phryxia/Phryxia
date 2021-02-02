@@ -37,3 +37,14 @@
 - Netlify
 
 - LLParser and Tree Search
+
+
+
+## 소녀전선 짤쇼
+
+[**소녀전선 짤쇼**](http://zzalshow.krissvector.moe:4577/)는 Safebooru API를 이용한 소녀전선 이미지 탐색 웹 어플리케이션입니다. 무한 스크롤을 하면서 예쁜 일러스트를 수집하세요. [자세히보기](https://github.com/Phryxia/gf-zzalshow)
+
+- TypeScript
+- react.js
+- node.js
+- Safebooru API
