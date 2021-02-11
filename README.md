@@ -53,7 +53,7 @@
 
 ## nuko::library
 
-[**nuko::library**](https://gfnuko-library.netlify.app/)는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/my-markdown-blog)
+[**nuko::library**](https://nuko-library.netlify.app/)는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/my-markdown-blog)
 
 * TypeScript
 * react.js
