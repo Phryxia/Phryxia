@@ -51,11 +51,11 @@
 
 
 
-## nuko::library
+## nuko::library-v2
 
-[**nuko::library**](https://nuko-library.netlify.app/)는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/my-markdown-blog)
+[**nuko::library-v2**](https://nuko-library-v2.netlify.app/)는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/nuko-library-v2)
 
-* TypeScript
-* react.js
+* JavaScript
 * markdown-it
 * node.js
+* ejs (SSR)
