@@ -35,7 +35,6 @@
 
 - TypeScript
 - Netlify
-
 - LLParser and Tree Search
 
 
@@ -58,4 +57,4 @@
 * JavaScript
 * markdown-it
 * node.js
-* ejs (SSR)
+* ejs with pre-rendering
