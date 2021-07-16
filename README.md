@@ -41,7 +41,7 @@
 
 ## Simple Safebooru
 
-[**Simple Safebooru**](http://zzalshow.krissvector.moe:4577/)는 Safebooru API를 이용한 이미지 탐색 웹 어플리케이션입니다. 무한 스크롤을 하면서 예쁜 일러스트를 수집하세요. [자세히보기](https://github.com/Phryxia/gf-zzalshow)
+~~[**Simple Safebooru**](http://zzalshow.krissvector.moe:4577/ )~~는 Safebooru API를 이용한 이미지 탐색 웹 어플리케이션입니다. 무한 스크롤을 하면서 예쁜 일러스트를 수집하세요. (Currently Not Available) [자세히보기](https://github.com/Phryxia/gf-zzalshow)
 
 - TypeScript
 - react.js
@@ -50,11 +50,10 @@
 
 
 
-## nuko::library-v2
+## nuko::library-v3
 
-[**nuko::library-v2**](https://nuko-library-v2.netlify.app/)는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/nuko-library-v2)
+[**nuko::library-v3**](https://nuko-library-v3.vercel.app/welcome )는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/nuko-library-v3)
 
-* JavaScript
+* TypeScript
 * markdown-it
-* node.js
-* ejs with pre-rendering
+* Next.js
