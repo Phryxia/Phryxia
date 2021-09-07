@@ -20,12 +20,13 @@
 
 
 
-## 소녀전선 인형 검색엔진
+## nuko::library-v3
 
-[**소녀전선 인형 검색엔진**](https://gfcombinator.netlify.app/)은 모바일 게임 '소녀전선'의 유닛을 검색할 수 있는 웹 어플리케이션입니다. 수작업으로 수집한 300여개가 넘는 유닛의 정보를 효과적으로 검색할 수 있습니다. [자세히보기](https://github.com/Phryxia/gf-combinator)
+[**nuko::library-v3**](https://nuko-library-v3.vercel.app/welcome) 는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/nuko-library-v3)
 
-- TypeScript
-- Netlify
+* TypeScript
+* markdown-it
+* Next.js
 
 
 
@@ -39,21 +40,6 @@
 
 
 
-## Simple Safebooru
+## Math-Parser (가칭)
 
-~~[**Simple Safebooru**](http://zzalshow.krissvector.moe:4577/ )~~는 Safebooru API를 이용한 이미지 탐색 웹 어플리케이션입니다. 무한 스크롤을 하면서 예쁜 일러스트를 수집하세요. (Currently Not Available) [자세히보기](https://github.com/Phryxia/gf-zzalshow)
-
-- TypeScript
-- react.js
-- node.js
-- Safebooru API
-
-
-
-## nuko::library-v3
-
-[**nuko::library-v3**](https://nuko-library-v3.vercel.app/welcome )는 jekyll을 사용하지 않고 밑바닥부터 개발한 커스텀 마크다운 기반 블로그입니다. [자세히 보기](https://github.com/Phryxia/nuko-library-v3)
-
-* TypeScript
-* markdown-it
-* Next.js
+[**Math parser**](https://parser-heaven.netlify.app/)는 수식을 입력받고 해석적으로 미분하며, 두 함수가 동일한지 판단합니다. 취미로 만들고 있는데 연구가 잘 안되네요. 나중에 잘 되면 라이브러리화 할 것 같지만, 기약은 없음... [자세히보기](https://github.com/Phryxia/auto-differentiator)
