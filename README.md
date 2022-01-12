@@ -1,10 +1,6 @@
 # Introduction
 
-웹 프론트엔드 개발자를 지향하는 컴퓨터학부 졸업생
-
-- TypeScript, JavaScript, Java, Python, C++
-- node.js, express.js
-- react.js
+FE Developer who is always chasing fun stuff
 
 
 
