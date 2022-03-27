@@ -33,9 +33,3 @@ FE Developer who is always chasing fun stuff
 - TypeScript
 - Netlify
 - LLParser and Tree Search
-
-
-
-## Math-Parser (가칭)
-
-[**Math parser**](https://parser-heaven.netlify.app/)는 수식을 입력받고 해석적으로 미분하며, 두 함수가 동일한지 판단합니다. 취미로 만들고 있는데 연구가 잘 안되네요. 나중에 잘 되면 라이브러리화 할 것 같지만, 기약은 없음... [자세히보기](https://github.com/Phryxia/auto-differentiator)
