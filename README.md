@@ -2,6 +2,9 @@
 
 FE Developer who is always chasing fun stuff
 
+Recently I'm doing some private project with others.
+
+I love writing small snippets which was targeted for mathematical things. Please check my [gist page](https://gist.github.com/Phryxia)!
 
 
 # Featured Project
