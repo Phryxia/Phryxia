@@ -41,9 +41,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 
 내가 자주 쓰는 것들 모음집
 
-## Miscellaneous
-
-## TypeScript & Web related
+## Web related
 
 - [Cloneable String Iterator](https://gist.github.com/Phryxia/e25909a0f8c7117f1a4290f0126d9e34)
 - [Interactive File Input for React](https://gist.github.com/Phryxia/a4766dc52b926dfac951ddef43e207f9)
