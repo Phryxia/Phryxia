@@ -50,6 +50,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 ## Algorithm & Data Structures
 
 - [DFA and NFA](https://gist.github.com/Phryxia/222dbd726a9f1b45ad78acd79ec060e8)
+- [Disjoint Set](https://gist.github.com/Phryxia/ff188aca6612efb388bcf19c0b525fc1)
 - [Find Greatest Element](https://gist.github.com/Phryxia/7eb1a32824c4e1d20afdb363d511b2c7)
 - [Heap](https://gist.github.com/Phryxia/cb020aa226d6276c86c712da315581a4)
 - [Range Minimum Query](https://gist.github.com/Phryxia/2cd9cb9aa8fc3c6cfa5f3a438263f1dc)
