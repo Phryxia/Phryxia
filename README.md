@@ -49,6 +49,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 
 ## Algorithm & Data Structures
 
+- [Binary Search](https://gist.github.com/Phryxia/7195b68566bc77e4c2f47988077770f8)
 - [DFA and NFA](https://gist.github.com/Phryxia/222dbd726a9f1b45ad78acd79ec060e8)
 - [Disjoint Set](https://gist.github.com/Phryxia/ff188aca6612efb388bcf19c0b525fc1)
 - [Find Greatest Element](https://gist.github.com/Phryxia/7eb1a32824c4e1d20afdb363d511b2c7)
