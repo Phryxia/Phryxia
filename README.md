@@ -46,6 +46,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Cloneable String Iterator](https://gist.github.com/Phryxia/e25909a0f8c7117f1a4290f0126d9e34)
 - [Interactive File Input for React](https://gist.github.com/Phryxia/a4766dc52b926dfac951ddef43e207f9)
 - [useOutsideClickHandler](https://gist.github.com/Phryxia/2b3f884345261fbd19b95505ced8eabc)
+- [Useful Type Manipulations](https://gist.github.com/Phryxia/dadc8ab20d3e08a31d8e04591a4266c2)
 
 ## Algorithm & Data Structures
 
@@ -66,3 +67,4 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Integer Vector to Natural/Integer Scalar](https://gist.github.com/Phryxia/cd393a1a7d8a89bbeacd204209df94ac)
 - [Median](https://gist.github.com/Phryxia/1a0a0f5d70cd265ab3ec2cfe9a04eb92)
 - [Sampling Without Replacement](https://gist.github.com/Phryxia/bff4ccecde26d303e48e9cf55339c676)
+- [Cartessian Product](https://gist.github.com/Phryxia/5a62a579b6367d0ed52d98696b4c27f7)
