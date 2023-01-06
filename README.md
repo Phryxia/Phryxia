@@ -44,10 +44,14 @@ I love writing small snippets which was targeted for mathematical things. Please
 ## Utilities
 
 - [Cloneable String Iterator](https://gist.github.com/Phryxia/e25909a0f8c7117f1a4290f0126d9e34)
-- [Interactive File Input for React](https://gist.github.com/Phryxia/a4766dc52b926dfac951ddef43e207f9)
-- [useOutsideClickHandler](https://gist.github.com/Phryxia/2b3f884345261fbd19b95505ced8eabc)
 - [Useful Type Manipulations](https://gist.github.com/Phryxia/dadc8ab20d3e08a31d8e04591a4266c2)
 - [Retrial with Promise](https://gist.github.com/Phryxia/e98c9d3e9be321843d94d2442ce3013a)
+
+### React
+
+- [Interactive File Input for React](https://gist.github.com/Phryxia/a4766dc52b926dfac951ddef43e207f9)
+- [useOutsideClickHandler](https://gist.github.com/Phryxia/2b3f884345261fbd19b95505ced8eabc)
+- [useConfirmModal](https://gist.github.com/Phryxia/bacd098470724c78cd0d6141c80a43c6)
 
 ## Algorithm & Data Structures
 
