@@ -46,6 +46,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Cloneable String Iterator](https://gist.github.com/Phryxia/e25909a0f8c7117f1a4290f0126d9e34)
 - [Useful Type Manipulations](https://gist.github.com/Phryxia/dadc8ab20d3e08a31d8e04591a4266c2)
 - [Retrial with Promise](https://gist.github.com/Phryxia/e98c9d3e9be321843d94d2442ce3013a)
+- [deepValues](https://gist.github.com/Phryxia/54a7f7b3d82819106efac397860c708f)
 
 ### React
 
