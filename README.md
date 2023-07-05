@@ -47,6 +47,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Useful Type Manipulations](https://gist.github.com/Phryxia/dadc8ab20d3e08a31d8e04591a4266c2)
 - [Retrial with Promise](https://gist.github.com/Phryxia/e98c9d3e9be321843d94d2442ce3013a)
 - [deepValues](https://gist.github.com/Phryxia/54a7f7b3d82819106efac397860c708f)
+- [Adjacent Pair Iterator](https://gist.github.com/Phryxia/a95ee9b73eb1dd0718b82932d2d04ffb)
 
 ### React
 
