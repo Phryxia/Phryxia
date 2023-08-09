@@ -66,6 +66,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Topological Sort](https://gist.github.com/Phryxia/0d18832e5e0c18521c2d3edead16d93f)
 - [Trie](https://gist.github.com/Phryxia/8908b775900a1409a0d342330e6bed13)
 - [Queue](https://gist.github.com/Phryxia/8b013da1ad945c6cd88989485e58d2ea)
+- [SymmetricMatrix](https://gist.github.com/Phryxia/0273f941805e781cee2680999060114f)
 
 ## Math
 
