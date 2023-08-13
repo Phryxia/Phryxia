@@ -76,3 +76,4 @@ I love writing small snippets which was targeted for mathematical things. Please
 - [Median](https://gist.github.com/Phryxia/1a0a0f5d70cd265ab3ec2cfe9a04eb92)
 - [Sampling Without Replacement](https://gist.github.com/Phryxia/bff4ccecde26d303e48e9cf55339c676)
 - [Cartessian Product](https://gist.github.com/Phryxia/5a62a579b6367d0ed52d98696b4c27f7)
+- [Circumcircle Finder](https://gist.github.com/Phryxia/04d74734cc45e73d3c10b35c1a3677e6)
