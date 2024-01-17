@@ -60,6 +60,7 @@ I love writing small snippets which was targeted for mathematical things. Please
 
 - [Binary Search](https://gist.github.com/Phryxia/7195b68566bc77e4c2f47988077770f8)
 - [Combination with Replacement](https://gist.github.com/Phryxia/a1cfe513d0611a8e6f5ebf205583c816)
+- [Combination without Replacement(=Heap's Algorithm)](https://gist.github.com/Phryxia/76c9a727d0c4b62729f1a15374ae7649)
 - [Cumulativesum](https://gist.github.com/Phryxia/b493e373f2610bf054f8e11f3404c105)
 - [DFA and NFA](https://gist.github.com/Phryxia/222dbd726a9f1b45ad78acd79ec060e8)
 - [Disjoint Set](https://gist.github.com/Phryxia/ff188aca6612efb388bcf19c0b525fc1)
