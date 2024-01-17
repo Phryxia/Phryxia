@@ -59,12 +59,12 @@ I love writing small snippets which was targeted for mathematical things. Please
 ## Algorithm & Data Structures
 
 - [Binary Search](https://gist.github.com/Phryxia/7195b68566bc77e4c2f47988077770f8)
+- [Combination with Replacement](https://gist.github.com/Phryxia/a1cfe513d0611a8e6f5ebf205583c816)
 - [Cumulativesum](https://gist.github.com/Phryxia/b493e373f2610bf054f8e11f3404c105)
 - [DFA and NFA](https://gist.github.com/Phryxia/222dbd726a9f1b45ad78acd79ec060e8)
 - [Disjoint Set](https://gist.github.com/Phryxia/ff188aca6612efb388bcf19c0b525fc1)
 - [Find Greatest Element](https://gist.github.com/Phryxia/7eb1a32824c4e1d20afdb363d511b2c7)
 - [Heap](https://gist.github.com/Phryxia/cb020aa226d6276c86c712da315581a4)
-- [Permutation](https://gist.github.com/Phryxia/a1cfe513d0611a8e6f5ebf205583c816)
 - [Range Minimum Query](https://gist.github.com/Phryxia/2cd9cb9aa8fc3c6cfa5f3a438263f1dc)
 - [Topological Sort](https://gist.github.com/Phryxia/0d18832e5e0c18521c2d3edead16d93f)
 - [Trie](https://gist.github.com/Phryxia/8908b775900a1409a0d342330e6bed13)
