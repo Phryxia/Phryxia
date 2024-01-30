@@ -5,7 +5,7 @@ FE Developer always chaising fun stuffs. Followings are my interests
 - First order logic and SAT solver
 - Mathematical optimization
 - Functional programming
-- Heavy type inference using TypeScript
+- Heavy type inference using TypeScript like [this one](https://github.com/marpple/FxTS/issues/239)
 
 I'm the original designer and author of the project [`dxf-json`](https://github.com/dotoritos-kim/dxf-json) (Not `dxf-parser`). Currently I'm participating in that project as sub-maintainer.
 
