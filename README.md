@@ -41,6 +41,7 @@ I love writing small snippets which was targeted for mathematical things. If you
 - [Find Greatest Element](https://gist.github.com/Phryxia/7eb1a32824c4e1d20afdb363d511b2c7)
 - [Heap](https://gist.github.com/Phryxia/cb020aa226d6276c86c712da315581a4)
 - [Range Minimum Query](https://gist.github.com/Phryxia/2cd9cb9aa8fc3c6cfa5f3a438263f1dc)
+- [Recursive Array](https://gist.github.com/Phryxia/a94200ef46ad42eb45b250a8730fe32f)
 - [Topological Sort](https://gist.github.com/Phryxia/0d18832e5e0c18521c2d3edead16d93f)
 - [Trie](https://gist.github.com/Phryxia/8908b775900a1409a0d342330e6bed13)
 - [Queue](https://gist.github.com/Phryxia/8b013da1ad945c6cd88989485e58d2ea)
