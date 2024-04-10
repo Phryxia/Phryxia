@@ -1,0 +1,11 @@
+.button {
+  transition: transform 300ms;
+  transition-timing-function: cubic-bezier(0.215, 0.01, 0, 0.925); /* custom */
+  transform: scale(1);
+}
+
+.shake {
+  transition: transform 400ms;
+  transition-timing-function: cubic-bezier(0.21, 1.215, 0, 1.055); /* custom */
+  transform: scale(1.1);
+}

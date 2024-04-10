@@ -1,0 +1,11 @@
+.color-cell {
+  display: inline-block;
+}
+
+.color-row {
+  display: block;
+
+  & > * {
+    margin-right: 10px;
+  }
+}

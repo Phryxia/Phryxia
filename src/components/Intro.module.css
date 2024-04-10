@@ -1,0 +1,35 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: min(48px, 10vw);
+}
+
+.descriptions {
+  font-size: 24px;
+  text-align: center;
+
+  margin-top: 10%;
+}
+
+.disclaimers {
+  list-style-type: '*';
+  color: gray;
+  margin-top: 5%;
+  font-size: 18px;
+
+  li {
+    .entry {
+      padding-left: 10px;
+    }
+  }
+}
+
+.start-button {
+  border: none;
+  width: 100%;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 10px;
+  margin-bottom: 12%;
+  background-color: #fad;
+}
