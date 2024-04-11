@@ -15,9 +15,10 @@ export function Intro({ onStart }: Props) {
       <h1 className={cx('title')}>나의 취향은 무슨 색?</h1>
       <ColorShowcase size={5} />
       <section className={cx('descriptions')}>
-        <p>당신의 취향을 색으로 표현한다면?</p>
         <p>
-          <br />
+          당신의 취향을 <em>색</em>으로 표현한다면?
+        </p>
+        <p>
           {KimhaeQuestions.length}개의 소소한 질문들을 물어볼거에요.
           <br />
           절대적인 정답은 없으며,

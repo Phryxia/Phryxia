@@ -1,11 +1,12 @@
 import { ColorNames } from '../consts/colors'
+import { rgbToHsl } from './conversion'
 
 const R_MIN = 0x23
 const R_MAX = 0xff
 const G_MIN = 0x50
-const G_MAX = 0xd3
+const G_MAX = 0xff
 const B_MIN = 0x85
-const B_MAX = 0xef
+const B_MAX = 0xff
 
 export function makeColor([r, g, b]: number[]) {
   if (r >= 4 && g >= 4 && b >= 4) return '#ffffff'
@@ -78,8 +79,8 @@ function argmin<T>(list: T[], evaluate: (value: T) => number) {
 }
 
 function colorDistance(c1: string, c2: string) {
-  const v1 = toVector(c1)
-  const v2 = toVector(c2)
+  const v1 = weight(rgbToHsl(toVector(c1)))
+  const v2 = weight(rgbToHsl(toVector(c2)))
   return vectorDistance(v1, v2)
 }
 
@@ -92,5 +93,15 @@ function toVector(c: string) {
 }
 
 function vectorDistance(v1: number[], v2: number[]) {
-  return v1.reduce((acc, x, i) => acc + (x - v2[i]) ** 2, 0)
+  return v1.reduce((acc, x, i) => {
+    if (i === 0) {
+      const diff = Math.abs(x - v2[i])
+      return acc + Math.min(diff, 1 - diff)
+    }
+    return acc + (x - v2[i]) ** 2
+  }, 0)
+}
+
+function weight([h, s, l]: number[]) {
+  return [h, 0.9 * s, 0.9 * l]
 }

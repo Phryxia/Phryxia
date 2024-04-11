@@ -1,6 +1,6 @@
-import { ColorAxis, PlayerChoice } from './consts/colors'
-import type { Question } from './types'
-import { add } from './vector'
+import { ColorAxis, PlayerChoice } from '../consts/colors'
+import type { Question } from '../types'
+import { add } from '../vector'
 
 const RGBToIndex = {
   [ColorAxis.R]: 0,

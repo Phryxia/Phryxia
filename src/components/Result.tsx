@@ -30,7 +30,7 @@ export function ResultView({ result, onReset }: Props) {
       <div className="root">
         <div className={cx('loading')}>결과 계산중...</div>
         <div className={cx('showcase-wrapper')}>
-          <ColorShowcase size={4} />
+          <ColorShowcase size={5} />
         </div>
       </div>
     )
@@ -48,17 +48,23 @@ export function ResultView({ result, onReset }: Props) {
       <div className={cx('color-cell')} style={{ backgroundColor: color }}>
         {color}
       </div>
-      <p>
-        사실 저는 방금 질문들의 모든 것들을 좋아한답니다.
+      <p className={cx('outro')}>
+        제가 좋아하는 빛깔들은, 마음에 드셨을까요?
         <br />
-        저는 다양한 색채감을 느끼며 살아가고 싶어요.
+        저는 다양한 색채를 경험하며 살아가고 싶어요.
         <br />
-        제 색들이 당신의 마음에 드셨길 바라며,
+        다양한 것들을 좋아하고, 즐기면서 말이죠.
         <br />
-        남은 하루도 당신의 추억이 되기를
+        남은 시간도 당신의 추억이 되기를!
       </p>
-      <button className={cx('button')} style={{ backgroundColor: color }} onClick={onReset}>
-        다시 해보기
+      <button
+        className={cx('button')}
+        style={{
+          backgroundColor: color,
+        }}
+        onClick={onReset}
+      >
+        다른 색 찾아보기
       </button>
     </div>
   )

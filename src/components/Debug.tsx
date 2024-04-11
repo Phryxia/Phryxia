@@ -1,10 +1,10 @@
 import classnames from 'classnames/bind'
-import Styles from '../styles/cell.module.css'
+import Styles from './Debug.module.css'
 import { findNearestColorName, makeColor, makeExhaustiveSelections } from '../logic/color'
 import { dedup } from '../sort'
 import { PlayerChoice } from '../consts/colors'
 import { KimhaeQuestions } from '../consts/questions'
-import { makeResult } from '../makeResult'
+import { makeResult } from '../logic/makeResult'
 import { makeAdjective } from '../logic/adjective'
 
 const cx = classnames.bind(Styles)

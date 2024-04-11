@@ -1,3 +1,7 @@
+:root {
+  --showcase-size: 0.4rem;
+}
+
 .container {
   margin: 0;
   padding: 0;
@@ -6,18 +10,17 @@
 .row {
   margin: 0;
   padding: 0;
-  height: 20px;
-  margin: 5px;
+  height: var(--showcase-size);
+  margin: calc(var(--showcase-size) * 0.3);
 
   .col {
-    margin: 0;
+    margin-right: calc(var(--showcase-size) * 0.3);
     padding: 0;
-    width: 20px;
-    height: 20px;
+    width: var(--showcase-size);
+    height: var(--showcase-size);
     display: inline-block;
-    margin-right: 5px;
     transition: background-color 500ms;
     background-color: #eee;
-    transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86); /* easeInOutCirc */
+    transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86);
   }
 }

@@ -3,38 +3,49 @@
   margin-top: 20px;
   margin-bottom: 3px;
   flex-basis: 10vh;
-  font-size: min(32px, 7vw);
+  font-size: 0.65rem;
+  color: var(--fc-title);
   text-wrap: nowrap;
   vertical-align: top;
+}
+
+.page-indicator {
+  font-size: 0.35rem;
+  color: var(--fc-title);
 }
 
 .choices {
   list-style-type: none;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  flex: 1;
+  justify-content: space-between;
   align-items: center;
   width: 80%;
-  margin: 10px 0;
+  margin: 20px 0;
   padding: 0;
-  font-size: 12px;
-
-  .vs {
-    font-weight: bold;
-    font-size: min(36px, 4vh);
-    color: #dd3355;
-  }
+  font-size: 0.3rem;
+  flex: 1;
 
   li {
+    flex-shrink: 1;
     width: 100%;
-    max-height: 15vh;
-    margin: 5px 0;
+    margin: 0;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &.vs {
+      flex-shrink: 2;
+      font-weight: bold;
+      font-size: 0.5rem;
+      color: #dd3355;
+    }
 
     .choice-detail {
-      width: 100%;
-      display: inline-block;
+      width: 65%;
+      display: flex;
+      flex-direction: column;
 
       img {
         width: 100%;
@@ -51,55 +62,75 @@
 }
 
 .buttons {
-  width: 80%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   flex-basis: min(20vh, 250px);
   margin-top: auto;
+  padding-bottom: 10%;
 
   button {
     margin: 0.8vh 0;
     padding: 10px;
     border: none;
     border-radius: 10px;
-    font-size: 100%;
+    font-size: 0.4rem;
   }
 }
 
 .R {
-  background: #e59;
   color: #dff;
+  background: #ee5599;
+  box-shadow:
+    inset 3px 3px 2px #c84781,
+    inset -3px -3px 2px #ff63b1;
 }
 
 .G {
-  background-color: #5e9;
   color: #260;
-  font-weight: bold;
+  background: #55ee99;
+  box-shadow:
+    inset 3px 3px 2px #47c881,
+    inset -3px -3px 2px #63ffb1;
 }
 
 .B {
-  background-color: #59e;
   color: #ffd;
+  background: #5599ee;
+  box-shadow:
+    inset 3px 3px 2px #4781c8,
+    inset -3px -3px 2px #63b1ff;
 }
 
 .GR {
-  background: #ee9;
   color: #775;
-  font-weight: bold;
+  background: #eeee99;
+  box-shadow:
+    inset 3px 3px 2px #c8c881,
+    inset 3px 3px 2px #ffffb1;
 }
 
 .BG {
-  background-color: #5ee;
   color: #260;
-  font-weight: bold;
+  border-radius: 10px;
+  background: #56f0f0;
+  box-shadow:
+    inset 3px 3px 2px #48caca,
+    inset 3px 3px 2px #64ffff;
 }
 
 .BR {
-  background-color: #e9e;
   color: #ffd;
+  background: #f28cf2;
+  box-shadow:
+    inset 3px 3px 2px #cb76cb,
+    inset 3px 3px 2px #ffa2ff;
 }
 
 .nah {
-  background: #999;
   color: #fff;
+  background: #999999;
+  box-shadow:
+    inset 3px 3px 2px #818181,
+    inset 3px 3px 2px #b1b1b1;
 }

@@ -4,10 +4,9 @@ import { QuestionView } from './components/Question'
 import { PlayerChoice } from './consts/colors'
 import { KimhaeQuestions } from './consts/questions'
 import { ResultView } from './components/Result'
-import { makeResult } from './makeResult'
+import { makeResult } from './logic/makeResult'
 import { makeColor } from './logic/color'
 // import { Debug } from './components/Debug'
-import './App.css'
 
 function App() {
   const [page, setPage] = useState(0)

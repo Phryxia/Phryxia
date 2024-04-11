@@ -1,5 +1,5 @@
 import { makeColor, makeExhaustiveSelections } from '../logic/color'
-import { makeResult } from '../makeResult'
+import { makeResult } from '../logic/makeResult'
 import { dedup } from '../sort'
 import { PlayerChoice } from './colors'
 import { KimhaeQuestions } from './questions'

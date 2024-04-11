@@ -53,7 +53,7 @@ function isRadiant(v: number[]) {
 }
 
 function isHappy(v: number[]) {
-  return v.every((x) => x >= 3) || v.reduce((acc, x) => acc + x) >= 9
+  return v.every((x) => x >= 3) || v.reduce((acc, x) => acc + x) >= 10
 }
 
 function isLow(v: number[]) {
