@@ -44,11 +44,11 @@ export function QuestionView({ page, question, onFirst, onSecond, onBoth, onNeit
           <SlowButton onClick={onSecond} className={cx({ [c2]: true })}>
             {question.choices[1].title}
           </SlowButton>
-          <SlowButton onClick={onBoth} className={cx({ [cb]: true })}>
-            둘 다 좋아
-          </SlowButton>
           <SlowButton onClick={onNeither} className={cx('nah')}>
             둘 다 별로
+          </SlowButton>
+          <SlowButton onClick={onBoth} className={cx({ [cb]: true })}>
+            둘 다 좋아
           </SlowButton>
         </LockContext.Provider>
       </div>
