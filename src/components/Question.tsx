@@ -3,7 +3,6 @@ import classnames from 'classnames/bind'
 import { Question } from '../types'
 import { ChoiceView } from './Choice'
 import { PageIndicator } from './PageIndicator'
-import { Fragment } from 'react/jsx-runtime'
 import { SlowButton } from './Button'
 import { LockContext } from '../logic/useMutex'
 import { useRef } from 'react'
@@ -30,13 +29,10 @@ export function QuestionView({ page, question, onFirst, onSecond, onBoth, onNeit
       <h1 className={cx('title')} dangerouslySetInnerHTML={{ __html: question.title }} />
       <PageIndicator page={page} />
       <ul className={cx('choices')}>
-        {question.choices.map((choice, index) => (
-          <Fragment key={choice.title}>
-            {index > 0 && <li className={cx('vs')}>VS</li>}
-            <li>
-              <ChoiceView choice={choice} />
-            </li>
-          </Fragment>
+        {question.choices.map((choice) => (
+          <li key={choice.title} className={cx('choice-detail')}>
+            <ChoiceView choice={choice} />
+          </li>
         ))}
       </ul>
 
