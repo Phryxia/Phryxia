@@ -44,6 +44,7 @@ I love writing small snippets which was targeted for mathematical things. If you
 - [Recursive Array](https://gist.github.com/Phryxia/a94200ef46ad42eb45b250a8730fe32f)
 - [Topological Sort](https://gist.github.com/Phryxia/0d18832e5e0c18521c2d3edead16d93f)
 - [Trie](https://gist.github.com/Phryxia/8908b775900a1409a0d342330e6bed13)
+- [Tree Iterator](https://gist.github.com/Phryxia/49ac6c3256efdb6c8ee6a03c4f76e013)
 - [Queue](https://gist.github.com/Phryxia/8b013da1ad945c6cd88989485e58d2ea)
 - [SymmetricMatrix](https://gist.github.com/Phryxia/0273f941805e781cee2680999060114f)
 
