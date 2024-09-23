@@ -27,6 +27,7 @@ I love writing small snippets which was targeted for mathematical things. If you
 
 - [Anchor wrapper for React](https://gist.github.com/Phryxia/677bb0f4aeb14418e847d6946ba390ed)
 - [Interactive File Input for React](https://gist.github.com/Phryxia/a4766dc52b926dfac951ddef43e207f9)
+- [useAsyncEffect](https://gist.github.com/Phryxia/049affe0234e0b8b1c100f44819934b3)
 - [useOutsideClickHandler](https://gist.github.com/Phryxia/2b3f884345261fbd19b95505ced8eabc)
 - [useConfirmModal](https://gist.github.com/Phryxia/bacd098470724c78cd0d6141c80a43c6)
 
