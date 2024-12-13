@@ -7,7 +7,7 @@ FE Developer always chaising fun stuffs. Followings are my interests
 - Functional programming
 - Heavy type inference using TypeScript like [this one](https://github.com/marpple/FxTS/issues/239)
 
-I'm the original designer and author of the project [`dxf-json`](https://github.com/dotoritos-kim/dxf-json) (Not `dxf-parser`). Currently I'm participating in that project as sub-maintainer.
+I'm the original designer and author of the project [`dxf-json`](https://github.com/dotoritos-kim/dxf-json) (Not `dxf-parser`). Currently I'm participating in that project as sub-maintainer. Forgive me for lazyness- I was very busy recently. If you have any questions about the parser, feel free to make an issue or Email me.
 
 I love writing small snippets which was targeted for mathematical things. If you're interested, please visit [gist page](https://gist.github.com/Phryxia).
 
