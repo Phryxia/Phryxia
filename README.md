@@ -2,8 +2,7 @@
 
 FE Developer always chaising fun stuffs. Followings are my interests
 
-- First order logic and SAT solver
-- Mathematical optimization
+- Formal Concept Analysis / Pattern Structures
 - Functional programming
 - Heavy type inference using TypeScript like [this one](https://github.com/marpple/FxTS/issues/239)
 
