@@ -40,7 +40,7 @@ My lovely codes. Note that most of them **ARE NOT RIGOROUSLY TESTED**. Use at yo
 - [Range Minimum Query](https://gist.github.com/Phryxia/2cd9cb9aa8fc3c6cfa5f3a438263f1dc)
 - [Topological Sort](https://gist.github.com/Phryxia/0d18832e5e0c18521c2d3edead16d93f)
 - [Tree Iterator](https://gist.github.com/Phryxia/49ac6c3256efdb6c8ee6a03c4f76e013)
-
+- [Eades-Lin-Smyth](https://gist.github.com/Phryxia/a7f822848d159327aa3c19da8e664d2d) to approximate minimum feedback arc set
 
 ## Data Structures
 
