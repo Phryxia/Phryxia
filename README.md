@@ -10,6 +10,10 @@ I'm the original designer and author of the project [`dxf-json`](https://github.
 
 I love writing small snippets which was targeted for mathematical things. If you're interested, please visit [gist page](https://gist.github.com/Phryxia).
 
+# Useful Tools
+
+- https://phryxia.github.io/know-your-schema/ (GraphQL Schema Explorer, No Server)
+
 # Useful Snippets
 
 My lovely codes. Note that most of them **ARE NOT RIGOROUSLY TESTED**. Use at your own risk.
